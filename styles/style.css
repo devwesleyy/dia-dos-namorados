@@ -32,7 +32,7 @@ body {
 
 .cabecalho__menu__navegacao {
    font-family: var(--font-primaria);
-   font-size: 1.5rem;
+   font-size: 2rem;
    font-weight: 600;
    text-align: center;
    text-decoration: none;
@@ -64,7 +64,7 @@ body {
 }
 
 .texto__destaque {
-    color: #ff0000ce;
+    color: #e40000ce;
 }
 
 .apresentacao__texto {
